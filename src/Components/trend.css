@@ -1,0 +1,15 @@
+.trend-container{
+  box-shadow: 0px 0px 5px rgb(0, 0, 0);
+  border: 1px solid white;
+  width: fit-content;
+  cursor: pointer;
+  background-color: rgb(131, 1, 131);
+  margin: 1px;
+}
+.trend-container p{
+  height: fit-content;
+  font-size: 12px;
+  line-height: 5px;
+  padding-block:0px;
+  padding-inline: 8px;
+}
